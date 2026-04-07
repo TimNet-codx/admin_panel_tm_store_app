@@ -7,7 +7,6 @@ import 'package:admin_panel_tm_store_app/view/router/brands/brands.dart';
 import 'package:admin_panel_tm_store_app/view/router/categories/categories.dart';
 import 'package:admin_panel_tm_store_app/view/router/media/media.dart';
 import 'package:admin_panel_tm_store_app/view/router/products/products.dart';
-import 'package:admin_panel_tm_store_app/view/router/products/widgets/addProduct.dart';
 import 'package:admin_panel_tm_store_app/view/router/subCategories/subCategories.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';

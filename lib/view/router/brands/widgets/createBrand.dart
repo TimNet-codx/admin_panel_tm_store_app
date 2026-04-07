@@ -1,9 +1,6 @@
-import 'dart:io';
 import 'package:admin_panel_tm_store_app/PickedImage/pickedImage.dart';
 import 'package:admin_panel_tm_store_app/PickedImage/valueNotifier.dart';
 import 'package:admin_panel_tm_store_app/controllers/brand_Controller.dart';
-import 'package:admin_panel_tm_store_app/controllers/subcategory_Controller.dart';
-import 'package:admin_panel_tm_store_app/models/brand.dart';
 import 'package:admin_panel_tm_store_app/models/category.dart';
 import 'package:admin_panel_tm_store_app/utils/constants/sizes.dart';
 import 'package:admin_panel_tm_store_app/view/Sidebar/sidebar.dart';

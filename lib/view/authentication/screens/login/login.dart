@@ -4,7 +4,6 @@ import 'package:admin_panel_tm_store_app/utils/constants/text_strings.dart';
 import 'package:admin_panel_tm_store_app/view/authentication/screens/login/widgets/login_form.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:iconsax/iconsax.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
