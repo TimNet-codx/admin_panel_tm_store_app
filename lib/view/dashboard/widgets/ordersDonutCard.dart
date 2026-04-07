@@ -11,6 +11,7 @@ class OrdersDonutCard extends StatelessWidget {
         double width = constraints.maxWidth;
         bool isMobile = width < 600;
 
+
         // Responsive sizes
         double chartHeight = isMobile ? 180 : 260;
         double centerRadius = isMobile ? 28 : 40;
